@@ -5,6 +5,7 @@ You can combine it with the Watch Dogs asset pack which is included in Momentum 
 1. Copy the Watch_Dogs folder into `SD Card/asset_packs`
 2. Go to `Momentum/Interface/Graphics/Asset Pack`
 3. Change the asset pack to __Watch_Dogs__
+> I highly recommend to use this pack with another WatchDogs themed asset pack since this one only includes custom icons.
 ## Examples
 ![error.png](pic/error.png)
 ###
@@ -13,3 +14,4 @@ You can combine it with the Watch Dogs asset pack which is included in Momentum 
 ![ir.png](pic/ir.png)
 ###
 ![nfc.png](pic/nfc.png)
+### ... and many more!
